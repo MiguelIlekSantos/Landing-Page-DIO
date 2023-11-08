@@ -6,7 +6,7 @@
    <br>
 
    <i>
-        see all the plan possibilities you can purchase on HBO MAX !
+        Get an idea of all you can learn in the DIO platform !
        <br>
        Now on your screen. 
    </i>
