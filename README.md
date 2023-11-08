@@ -71,7 +71,7 @@ src="https://camo.githubusercontent.com/92dc8e4a52f9b517fc80f4c8886065e441fe5140
    <img src="https://camo.githubusercontent.com/b925d0ba86bf1994b7609038f2fe12745793463aa59db8543f6efca85dfcecf9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d2f3f6c6f676f3d43535333266c6f676f436f6c6f723d776869746526636f6c6f723d626c7565" alt="Alt ou título da imagem" data-canonical-src="https://img.shields.io/badge/-CSS3-/?logo=CSS3&amp;logoColor=white&amp;color=blue" style="max-width: 100%;"></a></p>
 <ul dir="auto">
    
-<li><code>Advanced features</code> (display (Flex e Grid), animation, media quires, ...)</li>
+<li><code>Advanced features</code> (display (Flex e Grid), animation, media quires, pseudo-classes, pseudo-elements...)</li>
 </ul>
 
 ## Markup Language
