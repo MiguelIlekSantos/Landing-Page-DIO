@@ -1,4 +1,4 @@
-# Site-HBO-Max
+# Landing-Page-DIO
 
 <p align="center">
    <br>
