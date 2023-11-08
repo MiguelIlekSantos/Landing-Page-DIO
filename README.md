@@ -2,7 +2,7 @@
 
 <p align="center">
    <br>
-   <img  height="250" alt="HBO-MAX" title="HBO-MAX" src="https://github.com/MiguelIlekSantos/Site-HBO-Max/assets/138301252/505d4b6a-b958-4698-a7fa-330c201f6319" />
+   <img  height="250" alt="Landing-page-DIO" title="Landing-page-DIO" src="https://github.com/MiguelIlekSantos/Landing-Page-DIO/assets/138301252/bd9e8de8-19b4-4ecd-8075-fbc3560b7f31" />
    <br>
 
    <i>
@@ -12,15 +12,16 @@
    </i>
    <br>
    <p align="center"> 
-      <img  height="200" alt="QR_code_HBO-MAX" title="QR_code_HBO-MAX" src="https://github.com/MiguelIlekSantos/Site-HBO-Max/assets/138301252/9f4f834b-43ba-42d1-bc0f-9b3ec74ad933" />
+      <img  height="200" alt="QR-Code-Landing-page-DIO" title="QR-Code-Landing-page-DIO" src="https://github.com/MiguelIlekSantos/Landing-Page-DIO/assets/138301252/8b351331-91f8-4a96-b5c6-b9b9bf568326" />
       <br>
       <br>
+
    <i>
       or
    </i>
    
    <p align="center" dir="auto">
-      <a href="https://miguelileksantos.github.io/Site-HBO-Max/">Click to access !<a/>
+      <a href="https://miguelileksantos.github.io/Landing-Page-DIO/">Click to access !<a/>
    </p>
    </p>
    
@@ -29,32 +30,33 @@
 ***
 
 <p align="center" dir="auto">
-   <a href="https://github.com/MiguelIlekSantos/Site-HBO-Max/edit/main/README.md#introduction">Introduction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="https://github.com/MiguelIlekSantos/Site-HBO-Max/edit/main/README.md#interfaces"> Interfaces</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="https://github.com/MiguelIlekSantos/Site-HBO-Max/edit/main/README.md#stacks"> Stacks</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="https://github.com/MiguelIlekSantos/Site-HBO-Max/edit/main/README.md#future-developing">Future developing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="https://github.com/MiguelIlekSantos/Site-HBO-Max/edit/main/README.md#why--bulb">Why ?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="https://github.com/MiguelIlekSantos/Landing-Page-DIO/edit/main/README.md#introduction">Introduction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="https://github.com/MiguelIlekSantos/Landing-Page-DIO/edit/main/README.md#interfaces"> Interfaces</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="https://github.com/MiguelIlekSantos/Landing-Page-DIO/edit/main/README.md#stacks"> Stacks</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="https://github.com/MiguelIlekSantos/Landing-Page-DIO/edit/main/README.md#future-developing">Future developing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="https://github.com/MiguelIlekSantos/Landing-Page-DIO/edit/main/README.md#why--bulb">Why ?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
  
 ***
 
 ## Introduction
 
-> This website was made to show people all the advanteges that they can get with the HBO MAX <br>
-> even paying just small prices 💵 !
+> This website was made to show people the DIO platform and some of the advantages of your CSS curse <br>
+> Become a front-end developer today !
 
 ## Interfaces
 
 ### Desktop :desktop_computer:
 <p align="center">
    <br>
-   <img  height="500" alt="HBO-MAX" title="HBO-MAX" src="https://github.com/MiguelIlekSantos/Site-HBO-Max/assets/138301252/505d4b6a-b958-4698-a7fa-330c201f6319" />
-   <img  height="500" alt="HBO-MAX" title="HBO-MAX" src="https://github.com/MiguelIlekSantos/Site-HBO-Max/assets/138301252/eae18887-8dc0-4f9a-ba33-80b2cbd9a0a0" />
-   <img  height="500" alt="HBO-MAX" title="HBO-MAX" src="https://github.com/MiguelIlekSantos/Site-HBO-Max/assets/138301252/ff1a7e9e-6c68-45b7-b0d3-2fb4ccd8175d" />
-   <img  height="500" alt="HBO-MAX" title="HBO-MAX" src="https://github.com/MiguelIlekSantos/Site-HBO-Max/assets/138301252/2788ffde-84c7-43d4-a511-c2e7977eeb23" />
+   <img  height="500" alt="DIO" title="DIO" src="https://github.com/MiguelIlekSantos/Landing-Page-DIO/assets/138301252/bd9e8de8-19b4-4ecd-8075-fbc3560b7f31" />
+   <img  height="500" alt="DIO" title="DIO" src="https://github.com/MiguelIlekSantos/Landing-Page-DIO/assets/138301252/afa5bbc2-ef74-46b9-a194-2f69f0f19788" />
+   <img  height="500" alt="DIO" title="DIO" src="https://github.com/MiguelIlekSantos/Landing-Page-DIO/assets/138301252/c4ac322e-3886-4b95-9964-224e372896bc" />
+   <img  height="500" alt="DIO" title="DIO" src="https://github.com/MiguelIlekSantos/Landing-Page-DIO/assets/138301252/1fea2225-ed3a-4a4d-9b43-8c1fa0cba052" />
 
 
    <br>
+
 </p>
 
 <br>
@@ -71,7 +73,7 @@ src="https://camo.githubusercontent.com/92dc8e4a52f9b517fc80f4c8886065e441fe5140
    <img src="https://camo.githubusercontent.com/b925d0ba86bf1994b7609038f2fe12745793463aa59db8543f6efca85dfcecf9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d2f3f6c6f676f3d43535333266c6f676f436f6c6f723d776869746526636f6c6f723d626c7565" alt="Alt ou título da imagem" data-canonical-src="https://img.shields.io/badge/-CSS3-/?logo=CSS3&amp;logoColor=white&amp;color=blue" style="max-width: 100%;"></a></p>
 <ul dir="auto">
    
-<li><code>Advanced features</code> (display (Flex e Grid), animation, media quires, pseudo-classes, pseudo-elements...)</li>
+<li><code>Basic features</code> (display, color, border, border-radius, ...)</li>
 </ul>
 
 ## Markup Language
@@ -96,7 +98,10 @@ src="https://camo.githubusercontent.com/92dc8e4a52f9b517fc80f4c8886065e441fe5140
 
 ## Future developing :hammer_and_wrench:
 
-This website is full completed, but anyway I keep looking for possible improves that I can include !  
+This website was made when I was starting with CSS so I plan to make some improvements : 
+
+1. Add animations
+2. Adapt responsability
 
 <br>
 
